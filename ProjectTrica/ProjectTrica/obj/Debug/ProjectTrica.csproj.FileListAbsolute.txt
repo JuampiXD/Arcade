@@ -1,0 +1,70 @@
+D:\PC CASA\UWIL\ProjectTrica\ProjectTrica\bin\Debug\ProjectTrica.exe.config
+D:\PC CASA\UWIL\ProjectTrica\ProjectTrica\bin\Debug\ProjectTrica.exe
+D:\PC CASA\UWIL\ProjectTrica\ProjectTrica\bin\Debug\ProjectTrica.pdb
+D:\PC CASA\UWIL\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.csprojAssemblyReference.cache
+D:\PC CASA\UWIL\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Form1.resources
+D:\PC CASA\UWIL\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Properties.Resources.resources
+D:\PC CASA\UWIL\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.csproj.GenerateResource.cache
+D:\PC CASA\UWIL\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.csproj.CoreCompileInputs.cache
+D:\PC CASA\UWIL\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.exe
+D:\PC CASA\UWIL\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.pdb
+D:\PC CASA\UWIL\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Menu.resources
+C:\Users\NARDY\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.csprojAssemblyReference.cache
+C:\Users\NARDY\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Form1.resources
+C:\Users\NARDY\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Menu.resources
+C:\Users\NARDY\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Properties.Resources.resources
+C:\Users\NARDY\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.csproj.GenerateResource.cache
+C:\Users\NARDY\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.csproj.CoreCompileInputs.cache
+C:\Users\NARDY\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.exe
+C:\Users\NARDY\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.pdb
+C:\Users\NARDY\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.BuscarPares.resources
+C:\Users\NARDY\Desktop\ProjectTrica\ProjectTrica\bin\Debug\ProjectTrica.exe.config
+C:\Users\NARDY\Desktop\ProjectTrica\ProjectTrica\bin\Debug\ProjectTrica.exe
+C:\Users\NARDY\Desktop\ProjectTrica\ProjectTrica\bin\Debug\ProjectTrica.pdb
+C:\Users\NARDY\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Rompecabezas.resources
+C:\Users\NARDY\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Secuencias.resources
+C:\Users\NARDY\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.AdivinaLaImagen.resources
+C:\Users\Fernando\Desktop\ProjectTrica\ProjectTrica\bin\Debug\ProjectTrica.exe.config
+C:\Users\Fernando\Desktop\ProjectTrica\ProjectTrica\bin\Debug\ProjectTrica.exe
+C:\Users\Fernando\Desktop\ProjectTrica\ProjectTrica\bin\Debug\ProjectTrica.pdb
+C:\Users\Fernando\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.AdivinaLaImagen.resources
+C:\Users\Fernando\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.BuscarPares.resources
+C:\Users\Fernando\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Form1.resources
+C:\Users\Fernando\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Menu.resources
+C:\Users\Fernando\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Properties.Resources.resources
+C:\Users\Fernando\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Rompecabezas.resources
+C:\Users\Fernando\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Secuencias.resources
+C:\Users\Fernando\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.exe
+C:\Users\Fernando\Desktop\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.pdb
+D:\Juan Pablo\Escritorio\ProjectTrica\ProjectTrica\bin\Debug\ProjectTrica.exe.config
+D:\Juan Pablo\Escritorio\ProjectTrica\ProjectTrica\bin\Debug\ProjectTrica.exe
+D:\Juan Pablo\Escritorio\ProjectTrica\ProjectTrica\bin\Debug\ProjectTrica.pdb
+D:\Juan Pablo\Escritorio\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.csprojAssemblyReference.cache
+D:\Juan Pablo\Escritorio\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.AdivinaLaImagen.resources
+D:\Juan Pablo\Escritorio\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.BuscarPares.resources
+D:\Juan Pablo\Escritorio\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Form1.resources
+D:\Juan Pablo\Escritorio\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Menu.resources
+D:\Juan Pablo\Escritorio\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Properties.Resources.resources
+D:\Juan Pablo\Escritorio\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Rompecabezas.resources
+D:\Juan Pablo\Escritorio\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Secuencias.resources
+D:\Juan Pablo\Escritorio\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.csproj.GenerateResource.cache
+D:\Juan Pablo\Escritorio\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.csproj.CoreCompileInputs.cache
+D:\Juan Pablo\Escritorio\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.exe
+D:\Juan Pablo\Escritorio\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.pdb
+D:\4To Semestre\Jp\Proyectos impor\ProjectTrica\ProjectTrica\bin\Debug\ProjectTrica.exe.config
+D:\4To Semestre\Jp\Proyectos impor\ProjectTrica\ProjectTrica\bin\Debug\ProjectTrica.exe
+D:\4To Semestre\Jp\Proyectos impor\ProjectTrica\ProjectTrica\bin\Debug\ProjectTrica.pdb
+D:\4To Semestre\Jp\Proyectos impor\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.AdivinaLaImagen.resources
+D:\4To Semestre\Jp\Proyectos impor\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.BuscarPares.resources
+D:\4To Semestre\Jp\Proyectos impor\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Form1.resources
+D:\4To Semestre\Jp\Proyectos impor\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Menu.resources
+D:\4To Semestre\Jp\Proyectos impor\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Properties.Resources.resources
+D:\4To Semestre\Jp\Proyectos impor\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Rompecabezas.resources
+D:\4To Semestre\Jp\Proyectos impor\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.Secuencias.resources
+D:\4To Semestre\Jp\Proyectos impor\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.csproj.GenerateResource.cache
+D:\4To Semestre\Jp\Proyectos impor\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.csproj.CoreCompileInputs.cache
+D:\4To Semestre\Jp\Proyectos impor\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.exe
+D:\4To Semestre\Jp\Proyectos impor\ProjectTrica\ProjectTrica\obj\Debug\ProjectTrica.pdb
