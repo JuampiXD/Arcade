@@ -1,0 +1,145 @@
+D:\PC CASA\UWIL\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe.config
+D:\PC CASA\UWIL\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe
+D:\PC CASA\UWIL\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.pdb
+D:\PC CASA\UWIL\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csprojAssemblyReference.cache
+D:\PC CASA\UWIL\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.frmMenu.resources
+D:\PC CASA\UWIL\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Properties.Resources.resources
+D:\PC CASA\UWIL\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.GenerateResource.cache
+D:\PC CASA\UWIL\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.CoreCompileInputs.cache
+D:\PC CASA\UWIL\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.exe
+D:\PC CASA\UWIL\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.pdb
+D:\PC CASA\UWIL\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Rompecabezas.resources
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe.config
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.pdb
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csprojAssemblyReference.cache
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.frmMenu.resources
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Properties.Resources.resources
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Rompecabezas.resources
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.GenerateResource.cache
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.CoreCompileInputs.cache
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.exe
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.pdb
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.FrmDatos.resources
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.LaOcaLoca.resources
+D:\Juan Pablo\Escritorio\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe.config
+D:\Juan Pablo\Escritorio\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe
+D:\Juan Pablo\Escritorio\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.pdb
+D:\Juan Pablo\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csprojAssemblyReference.cache
+D:\Juan Pablo\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.frmMenu.resources
+D:\Juan Pablo\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.FrmDatos.resources
+D:\Juan Pablo\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.LaOcaLoca.resources
+D:\Juan Pablo\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Properties.Resources.resources
+D:\Juan Pablo\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Rompecabezas.resources
+D:\Juan Pablo\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.GenerateResource.cache
+D:\Juan Pablo\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.CoreCompileInputs.cache
+D:\Juan Pablo\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.exe
+D:\Juan Pablo\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.pdb
+C:\Users\Fernando\Desktop\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe.config
+C:\Users\Fernando\Desktop\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe
+C:\Users\Fernando\Desktop\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.pdb
+C:\Users\Fernando\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.frmMenu.resources
+C:\Users\Fernando\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.FrmDatos.resources
+C:\Users\Fernando\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.LaOcaLoca.resources
+C:\Users\Fernando\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Marcadores.resources
+C:\Users\Fernando\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Rompecabezas.resources
+C:\Users\Fernando\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.exe
+C:\Users\Fernando\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.pdb
+C:\Users\Fernando\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.BuscarPares.resources
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csprojAssemblyReference.cache
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.BuscarPares.resources
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.frmMenu.resources
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.FrmDatos.resources
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.LaOcaLoca.resources
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Marcadores.resources
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Properties.Resources.resources
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Rompecabezas.resources
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.GenerateResource.cache
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.CoreCompileInputs.cache
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.exe
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.pdb
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe.config
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.pdb
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.BuscarPares.resources
+C:\Users\cuell\OneDrive\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Ahorcado.resources
+C:\Users\NARDY\Desktop\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe.config
+C:\Users\NARDY\Desktop\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe
+C:\Users\NARDY\Desktop\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.pdb
+C:\Users\NARDY\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csprojAssemblyReference.cache
+C:\Users\NARDY\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Ahorcado.resources
+C:\Users\NARDY\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.BuscarPares.resources
+C:\Users\NARDY\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.frmMenu.resources
+C:\Users\NARDY\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.FrmDatos.resources
+C:\Users\NARDY\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.LaOcaLoca.resources
+C:\Users\NARDY\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Properties.Resources.resources
+C:\Users\NARDY\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Rompecabezas.resources
+C:\Users\NARDY\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.GenerateResource.cache
+C:\Users\NARDY\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.CoreCompileInputs.cache
+C:\Users\NARDY\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.exe
+C:\Users\NARDY\Desktop\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.pdb
+D:\Juan Pablo\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Ahorcado.resources
+D:\Juan Pablo\Escritorio\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.BuscarPares.resources
+D:\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csprojAssemblyReference.cache
+D:\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Ahorcado.resources
+D:\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.BuscarPares.resources
+D:\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.frmMenu.resources
+D:\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.FrmDatos.resources
+D:\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.LaOcaLoca.resources
+D:\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Properties.Resources.resources
+D:\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Rompecabezas.resources
+D:\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.GenerateResource.cache
+D:\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.CoreCompileInputs.cache
+D:\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.exe
+D:\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.pdb
+D:\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe.config
+D:\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe
+D:\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.pdb
+C:\Users\Fernando\Desktop\Original\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe.config
+C:\Users\Fernando\Desktop\Original\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe
+C:\Users\Fernando\Desktop\Original\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.pdb
+C:\Users\Fernando\Desktop\Original\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\Original\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Ahorcado.resources
+C:\Users\Fernando\Desktop\Original\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.BuscarPares.resources
+C:\Users\Fernando\Desktop\Original\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.frmMenu.resources
+C:\Users\Fernando\Desktop\Original\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.FrmDatos.resources
+C:\Users\Fernando\Desktop\Original\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.LaOcaLoca.resources
+C:\Users\Fernando\Desktop\Original\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Original\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Rompecabezas.resources
+C:\Users\Fernando\Desktop\Original\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Original\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Original\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.exe
+C:\Users\Fernando\Desktop\Original\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.pdb
+D:\Juan Pablo\Escritorio\Jp\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe.config
+D:\Juan Pablo\Escritorio\Jp\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe
+D:\Juan Pablo\Escritorio\Jp\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.pdb
+D:\Juan Pablo\Escritorio\Jp\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csprojAssemblyReference.cache
+D:\Juan Pablo\Escritorio\Jp\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Ahorcado.resources
+D:\Juan Pablo\Escritorio\Jp\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.BuscarPares.resources
+D:\Juan Pablo\Escritorio\Jp\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.frmMenu.resources
+D:\Juan Pablo\Escritorio\Jp\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.FrmDatos.resources
+D:\Juan Pablo\Escritorio\Jp\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.LaOcaLoca.resources
+D:\Juan Pablo\Escritorio\Jp\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Properties.Resources.resources
+D:\Juan Pablo\Escritorio\Jp\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Rompecabezas.resources
+D:\Juan Pablo\Escritorio\Jp\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.GenerateResource.cache
+D:\Juan Pablo\Escritorio\Jp\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.exe
+D:\Juan Pablo\Escritorio\Jp\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.pdb
+D:\4To Semestre\Jp\Proyectos impor\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe.config
+D:\4To Semestre\Jp\Proyectos impor\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.exe
+D:\4To Semestre\Jp\Proyectos impor\Arcade_Master\Arcade_Master\bin\Debug\Arcade_Master.pdb
+D:\4To Semestre\Jp\Proyectos impor\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.AssemblyReference.cache
+D:\4To Semestre\Jp\Proyectos impor\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Ahorcado.resources
+D:\4To Semestre\Jp\Proyectos impor\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.BuscarPares.resources
+D:\4To Semestre\Jp\Proyectos impor\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.frmMenu.resources
+D:\4To Semestre\Jp\Proyectos impor\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.FrmDatos.resources
+D:\4To Semestre\Jp\Proyectos impor\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.LaOcaLoca.resources
+D:\4To Semestre\Jp\Proyectos impor\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Properties.Resources.resources
+D:\4To Semestre\Jp\Proyectos impor\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.Rompecabezas.resources
+D:\4To Semestre\Jp\Proyectos impor\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.GenerateResource.cache
+D:\4To Semestre\Jp\Proyectos impor\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.csproj.CoreCompileInputs.cache
+D:\4To Semestre\Jp\Proyectos impor\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.exe
+D:\4To Semestre\Jp\Proyectos impor\Arcade_Master\Arcade_Master\obj\Debug\Arcade_Master.pdb
